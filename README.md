@@ -1,6 +1,6 @@
 # PwC-Diversity-Inclusion-Analysis-on-PowerBI
 
-Live interactive dashboard on [
+Live interactive dashboard on [Link here](https://github.com/Manojkumar0715/PwC-Diversity-Inclusion-Analysis-on-PowerBI/blob/main/Diversity%20and%20inclusion.pbix)
 
 I worked on this project by following the Pwc virtual Experience on power BI at Forage [Link here](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/Power%20BI%20in%20Data%20Analytics?ref=4waMNg8ejozso67A7)
 
