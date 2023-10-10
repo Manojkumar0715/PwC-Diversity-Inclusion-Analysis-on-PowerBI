@@ -1,6 +1,6 @@
 # PwC-Diversity-Inclusion-Analysis-on-PowerBI
 
-Live interactive dashboard on [Link here](https://github.com/Manojkumar0715/PwC-Diversity-Inclusion-Analysis-on-PowerBI/blob/main/Diversity%20and%20inclusion.pbix)
+Live interactive dashboard on [Link here]
 
 I worked on this project by following the Pwc virtual Experience on power BI at Forage [Link here](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/Power%20BI%20in%20Data%20Analytics?ref=4waMNg8ejozso67A7)
 
@@ -44,22 +44,22 @@ As the data analyst assigned to carry out analysis of the client data, have been
 - 
 
 
-### Dashboard Views
+ ## Dashboard
 
-#### Main Dashboard View
+   ### Main DashBoard View 
 
 <p align="center">
-  <img src="https://github.com/Manojkumar0715/PwC-Diversity-Inclusion-Analysis-on-PowerBI/blob/main/Main%20dashboard.png" height="400">
+  <img src="" height="400">
 </p>
 
-#### Country wise View
+   ### Country wise View
 
 <p align="center">
-  <img src="https://github.com/Manojkumar0715/PwC-Diversity-Inclusion-Analysis-on-PowerBI/blob/main/Nationality%20Wise.png" height="400">
+  <img src="" height="400">
 </p>
 
-#### Employee Details View
+   ### Employee Details View
 
 <p align="center">
-  <img src="https://github.com/Manojkumar0715/PwC-Diversity-Inclusion-Analysis-on-PowerBI/blob/main/Employee%20Details.png" height="400">
+  <img src="" height="400">
 </p>
