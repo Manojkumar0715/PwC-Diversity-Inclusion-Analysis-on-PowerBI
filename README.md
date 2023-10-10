@@ -1,6 +1,7 @@
 # PwC-Diversity-Inclusion-Analysis-on-PowerBI
 
-Live interactive dashboard on [Link here]
+Live interactive dashboard on [Link here](https://github.com/Manojkumar0715/PwC-Diversity-Inclusion-Analysis-on-PowerBI/blob/main/Diversity%20and%20inclusion.pbix)
+
 
 I worked on this project by following the Pwc virtual Experience on power BI at Forage [Link here](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/Power%20BI%20in%20Data%20Analytics?ref=4waMNg8ejozso67A7)
 
@@ -41,7 +42,11 @@ As the data analyst assigned to carry out analysis of the client data, have been
 - Average Performance rating: women
 
 ### Analysis & Insight
-- 
+- In Pharama group **total** count of employees are **500**, out of which **295 men** and **205 women**.
+- Around **54.52%** of **women promoted** to next level.
+- **Majority** of **employees** **294** are part of **Switzerland**.
+- **Operations** team had the **highest Count of Leaver 20** and **HR** had the l**owest Count of Leaver 1**.
+- In total hired %, **59%** were **men** and **41%** were **women**.
 
 
  ## Dashboard
@@ -49,17 +54,17 @@ As the data analyst assigned to carry out analysis of the client data, have been
    ### Main DashBoard View 
 
 <p align="center">
-  <img src="" height="400">
+  <img src="https://github.com/Manojkumar0715/PwC-Diversity-Inclusion-Analysis-on-PowerBI/blob/main/Main%20Dashboard.png" height="400">
 </p>
 
    ### Country wise View
 
 <p align="center">
-  <img src="" height="400">
+  <img src="https://github.com/Manojkumar0715/PwC-Diversity-Inclusion-Analysis-on-PowerBI/blob/main/Nationality%20Wise.png" height="400">
 </p>
 
    ### Employee Details View
 
 <p align="center">
-  <img src="" height="400">
+  <img src="https://github.com/Manojkumar0715/PwC-Diversity-Inclusion-Analysis-on-PowerBI/blob/main/Employee%20Details.png" height="400">
 </p>
