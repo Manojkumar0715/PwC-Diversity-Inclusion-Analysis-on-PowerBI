@@ -44,8 +44,22 @@ As the data analyst assigned to carry out analysis of the client data, have been
 - 
 
 
-### Final Dashboard
+### Dashboard Views
+
+#### Main Dashboard View
 
 <p align="center">
-  <img src="" height="400">
+  <img src="https://github.com/Manojkumar0715/PwC-Diversity-Inclusion-Analysis-on-PowerBI/blob/main/Main%20dashboard.png" height="400">
+</p>
+
+#### Country wise View
+
+<p align="center">
+  <img src="https://github.com/Manojkumar0715/PwC-Diversity-Inclusion-Analysis-on-PowerBI/blob/main/Nationality%20Wise.png" height="400">
+</p>
+
+#### Employee Details View
+
+<p align="center">
+  <img src="https://github.com/Manojkumar0715/PwC-Diversity-Inclusion-Analysis-on-PowerBI/blob/main/Employee%20Details.png" height="400">
 </p>
